@@ -1,0 +1,177 @@
+{
+    "House Stark": [
+        {
+            "char_name": "Eddard Stark",
+            "spouse": "Lady Catelyn",
+            "spouse_house": "House Tully",
+            "title": ["Lord of Winterfell", "Warden of the North"],
+            "father_name": "Richard Stark",
+            "aka": "Ned",
+            "children": [
+                "Rickon",
+                "Brandon (Bran)",
+                "Arya",
+                "Sansa",
+                "Jon Snow (Bastard)",
+                "Robert (Robb)"
+            ],
+            "name": "Eddard Stark",
+            "description": "Ned was a very honorable, honest, and dutiful man. He was also a strong believer in the old gods and the old ways, and preferred to administer justice himself, as he believed the judge should bear the burden of the punishment.",
+            "house_name": "House Stark",
+            "weapon": "Ice, the two-handed ancestral sword of House Stark",
+            "char_image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/game-of-thrones/b/be/Eddard_HS.png?width=325",
+            "house_image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/game-of-thrones/5/55/Wallpaper-stark-sigil-1600.jpg?width=1024"
+        },
+        {
+            "char_name": "Arya Stark",
+            "spouse": "",
+            "spouse_house": "",
+            "title": [""],
+            "father_name": "Eddard Stark",
+            "aka": "Arya Horseface, Arry, Weasel",
+            "children": [],
+            "name": "Arya Stark",
+            "description": "Arya is a strong-willed and independent young girl who defies traditional gender roles. She has a fierce determination and a desire for vengeance against those who wronged her family.",
+            "house_name": "House Stark",
+            "weapon": "Needle (a small sword)",
+            "char_image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/game-of-thrones/1/1e/Arya_HS.png?width=325",
+            "house_image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/game-of-thrones/5/55/Wallpaper-stark-sigil-1600.jpg?width=1024"
+        },
+        {
+            "char_name": "Jon Snow",
+            "spouse": "",
+            "spouse_house": "",
+            "title": [
+                "Lord Commander of the Night's Watch",
+                "King in the North",
+                "Aegon Targaryen"
+            ],
+            "father_name": "Eddard Stark (biological), Rhaegar Targaryen (biological)",
+            "aka": "Lord Snow",
+            "children": [],
+            "name": "Jon Snow",
+            "description": "Jon Snow is known for his strong sense of honor and duty. He is a skilled warrior and leader, having risen through the ranks of the Night's Watch to become its Lord Commander. Later, he discovers his true parentage as the legitimate son of Rhaegar Targaryen and Lyanna Stark.",
+            "house_name": "House Stark (by upbringing), House Targaryen (biological)",
+            "weapon": "Longclaw (Valyrian steel sword)",
+            "char_image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/game-of-thrones/7/76/Jon_Snow_HS.png?width=325",
+            "house_image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/game-of-thrones/5/55/Wallpaper-stark-sigil-1600.jpg?width=1024"
+        }
+    ],
+    "House Lannister": [
+        {
+            "char_name": "Cersei Lannister",
+            "spouse": "King Robert Baratheon (formerly)",
+            "spouse_house": "House Baratheon",
+            "title": [
+                "Queen of the Andals, the Rhoynar, and the First Men",
+                "Lady of Casterly Rock"
+            ],
+            "father_name": "Tywin Lannister",
+            "aka": "The Lioness",
+            "children": [
+                "Joffrey Baratheon",
+                "Myrcella Baratheon",
+                "Tommen Baratheon"
+            ],
+            "name": "Cersei Lannister",
+            "description": "Cersei is a cunning and ambitious woman. She is known for her political intrigue and desire for power. She is fiercely protective of her children and is willing to do whatever it takes to keep them in positions of authority.",
+            "house_name": "House Lannister",
+            "weapon": "Cersei is not known for physical combat but uses her intelligence and influence as her weapons.",
+            "char_image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/game-of-thrones/d/d4/Cersei_HS.png?width=325",
+            "house_image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/game-of-thrones/c/c8/Wallpaper-lannister-sigil-1600.jpg?width=1024"
+        },
+        {
+            "char_name": "Tyrion Lannister",
+            "spouse": "",
+            "spouse_house": "",
+            "title": ["Hand of the King", "Master of Coin"],
+            "father_name": "Tywin Lannister",
+            "aka": "The Imp",
+            "children": [],
+            "name": "Tyrion Lannister",
+            "description": "Tyrion is a highly intelligent and witty man, but his small stature has led to a life of mockery and prejudice. Despite this, he uses his intelligence to navigate the dangerous political landscape of Westeros.",
+            "house_name": "House Lannister",
+            "weapon": "Mind and wit",
+            "char_image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/game-of-thrones/5/52/Tyrion_HS.png?width=325",
+            "house_image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/game-of-thrones/c/c8/Wallpaper-lannister-sigil-1600.jpg?width=1024"
+        },
+        {
+            "char_name": "Jaime Lannister",
+            "spouse": "",
+            "spouse_house": "",
+            "title": ["Ser", "Lord of Casterly Rock"],
+            "father_name": "Tywin Lannister",
+            "aka": "Kingslayer",
+            "children": [],
+            "name": "Jaime Lannister",
+            "description": "Jaime is a skilled knight and a member of the Kingsguard. He is best known for killing King Aerys II Targaryen, earning him the nickname 'Kingslayer.' Despite his reputation, Jaime has complex motives and a sense of honor.",
+            "house_name": "House Lannister",
+            "weapon": "Valyrian steel sword (formerly)",
+            "char_image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/game-of-thrones/6/60/Jaime_HS.png?width=325",
+            "house_image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/game-of-thrones/c/c8/Wallpaper-lannister-sigil-1600.jpg?width=1024"
+        }
+    ],
+    "House Baratheon": [
+        {
+            "char_name": "Robert Baratheon",
+            "spouse": "Cersei Lannister",
+            "spouse_house": "House Lannister",
+            "title": [
+                "King of the Andals, the Rhoynar, and the First Men",
+                "Lord of the Seven Kingdoms"
+            ],
+            "father_name": "Steffon Baratheon",
+            "aka": "The Usurper",
+            "children": [
+                "Joffrey Baratheon",
+                "Myrcella Baratheon",
+                "Tommen Baratheon"
+            ],
+            "name": "Robert Baratheon",
+            "description": "Robert Baratheon was a charismatic and robust warrior who led a rebellion against the Targaryen dynasty and became the king of the Seven Kingdoms. Over time, he grew disinterested in ruling and indulged in a life of feasting and hunting. His marriage to Cersei Lannister was politically motivated, leading to a tumultuous reign.",
+            "house_name": "House Baratheon",
+            "weapon": "Warhammer",
+            "char_image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/game-of-thrones/e/e2/Robert_B_HS.png?width=325",
+            "house_image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/game-of-thrones/1/16/Wallpaper-baratheon-sigil-1600.jpg?width=1024"
+        },
+        {
+            "char_name": "Stannis Baratheon",
+            "spouse": "Selyse Florent",
+            "spouse_house": "House Florent",
+            "title": [
+                "Lord of Dragonstone",
+                "Master of Ships",
+                "Hand of the King",
+                "Protector of the Realm"
+            ],
+            "father_name": "Steffon Baratheon",
+            "aka": "The Mannis",
+            "children": ["Shireen Baratheon"],
+            "name": "Stannis Baratheon",
+            "description": "Stannis Baratheon is known for his rigid sense of justice and duty. He believes himself to be the rightful king of Westeros and is willing to do whatever it takes to claim the Iron Throne, even forming alliances with dark forces.",
+            "house_name": "House Baratheon",
+            "weapon": "Sword",
+            "char_image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/game-of-thrones/a/a4/Stannis_HS.png?width=325",
+            "house_image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/game-of-thrones/1/16/Wallpaper-baratheon-sigil-1600.jpg?width=1024"
+        },
+        {
+            "char_name": "Renly Baratheon",
+            "spouse": "Margaery Tyrell",
+            "spouse_house": "House Tyrell",
+            "title": [
+                "Lord of Storm's End",
+                "Master of Laws",
+                "King in Highgarden (self-proclaimed)"
+            ],
+            "father_name": "Steffon Baratheon",
+            "aka": "The King in Highgarden",
+            "children": [],
+            "name": "Renly Baratheon",
+            "description": "Renly Baratheon was known for his charm and popularity. He declared himself king with the support of House Tyrell, leading to a rival claim for the Iron Throne. Despite his youthful demeanor, he was a contender for the throne before his untimely death.",
+            "house_name": "House Baratheon",
+            "weapon": "Sword",
+            "char_image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/game-of-thrones/c/ce/Renly_HS.png?width=325",
+            "house_image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/game-of-thrones/1/16/Wallpaper-baratheon-sigil-1600.jpg?width=1024"
+        }
+    ]
+}
